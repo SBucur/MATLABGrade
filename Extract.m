@@ -1,5 +1,5 @@
 %% ENGI 1331 MA Grade Setup Script (GSS) [MATLAB 2017a]
-% Fall 2017 - Stefan Bucur
+%Fall 2017 - Stefan Bucur
 
 
 %% Start
