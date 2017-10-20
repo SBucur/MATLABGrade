@@ -16,31 +16,28 @@ Grade Mastery Assignments (MAs) with ease. This MATLAB script takes the download
 |       |   +-- MA1_AlgSht_P1.pdf
 |       |   +-- MA1_AlgSht_P2.pdf
 |       |   +-- MA1_AlgSht_P3.pdf
+|       |   +-- MA1_Rubric_sbucur.xlsx
+|       |   +-- Problem1.mat
+|       |   +-- Problem2.csv
 |   +-- johndoe3
 |       |   +-- MA1_johndoe3.m
 |       |   +-- MA1_AlgSht_P1.pdf
 |       |   +-- MA1_AlgSht_P2.pdf
 |       |   +-- MA1_AlgSht_P3.pdf
+|       |   +-- MA1_Rubric_johndoe3.xlsx
+|       |   +-- Problem1.mat
+|       |   +-- Problem2.csv
 +-- MA2
-|   +-- sbucur
-|       |   +-- MA2_sbucur.m
-|       |   +-- MA2_AlgSht_P1.pdf
-|       |   +-- MA2_AlgSht_P2.pdf
-|       |   +-- MA2_AlgSht_P3.pdf
-|   +-- johndoe3
-|       |   +-- MA2_johndoe3.m
-|       |   +-- MA2_AlgSht_P1.pdf
-|       |   +-- MA2_AlgSht_P2.pdf
-|       |   +-- MA2_AlgSht_P3.pdf
 ...
+
 +-- LICENSE
 ```
-Rules for using the script:
+### Rules for using the script:
 * Valid MAs must be in the format ```MA<#>_<cougarnet>.zip```. All others are incorrect and you should deduct points.
 * ALL grading files must be in a .zip file with the format ```MA<#>_Rubric.zip```. All others are incorrect and you should feel bad for not following the same directions you give your students...
 * Students should make sure all files are in the root directory of the .zip unless specified, otherwise grading files will not be extracted in the right place.
 
-TODO:
+### TODO:
 * Fix behavior handling invalid .zip files
 * Rename .xlsx files to append username
 * Delete irrelevant files from MA submissions
