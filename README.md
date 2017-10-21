@@ -1,5 +1,5 @@
 # MATLABGrade
-Grade Mastery Assignments (MAs) with ease. This MATLAB script takes the downloaded .zip submissions and extracts them into separate folders by MA and attaches the Rubric files with them. The file structure should look like this:
+Grade Mastery Assignments (MAs) easier. This MATLAB script takes the downloaded .zip submissions and extracts them into separate folders by MA and attaches the Rubric files with them. The file structure should look like this:
 
 ```
 +-- Extract.m
@@ -37,8 +37,8 @@ Grade Mastery Assignments (MAs) with ease. This MATLAB script takes the download
 * ALL grading files must be in a .zip file with the format ```MA<#>_Rubric.zip```. All others are incorrect and you should feel bad for not following the same directions you give your students...
 * Students should make sure all files are in the root directory of the .zip unless specified, otherwise grading files will not be extracted in the right place.
 
-### TODO:
-* Fix behavior handling invalid .zip files
+### TO DO:
+* Fix behavior handling invalid .zip fileshttps://github.com/SBucur/MATLABGrade
 * Rename .xlsx files to append username
 * Delete irrelevant files from MA submissions
 * Interfaces (?)
