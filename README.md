@@ -38,7 +38,7 @@ Grade Mastery Assignments (MAs) easier. This MATLAB script takes the downloaded 
 * Students should make sure all files are in the root directory of the .zip unless specified, otherwise grading files will not be extracted in the right place.
 
 ### TO DO:
-* Fix behavior handling invalid .zip fileshttps://github.com/SBucur/MATLABGrade
+* Fix behavior handling invalid .zip files
 * Rename .xlsx files to append username
 * Delete irrelevant files from MA submissions
 * Interfaces (?)
