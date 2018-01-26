@@ -33,8 +33,8 @@ Grade Mastery Assignments (MAs) easier. This MATLAB script takes the downloaded 
 +-- LICENSE
 ```
 ### Rules for using the script:
-* Valid MAs must be in the format ```MA<#>_<cougarnet>.zip```. All others are incorrect and you should deduct points.
-* ALL grading files must be in a .zip file with the format ```MA<#>_Rubric.zip```. All others are incorrect and you should feel bad for not following the same directions you give your students...
+* Valid MAs must be in the format ```MA<#>_<cougarnet>.zip```. Deduct points otherwise.
+* ALL grading files must be in a .zip file with the format ```MA<#>_Rubric.zip```.
 * Students should make sure all files are in the root directory of the .zip unless specified, otherwise grading files will not be extracted in the right place.
 
 ### TO DO:
